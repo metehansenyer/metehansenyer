@@ -7,9 +7,9 @@
 
 </p>
 
-- 🔭 My latest project [Discord Uptime Bot](https://github.com/metehansenyer/Discord-Uptime-Bot)
+- 🔭 My latest project [Angry Sharks Game Clone for YZM104](https://github.com/metehansenyer/KOU-YZM104-CppGameProject-AngrySharks)
 
-- 🌱 I’m currently learning **C, Go**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [HERE](https://github.com/metehansenyer?tab=repositories)
 
