@@ -7,9 +7,9 @@
 
 </p>
 
-- 🔭 My latest project [To Do Site for YZM108](https://github.com/metehansenyer/KOU-YZM108-ToDoSiteProject)
+- 🔭 My latest project [KOU YZM209 CSGameProject Spacewar](https://github.com/metehansenyer/KOU-YZM209-CSGameProject-Spacewar)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NOTHING**
 
 - 👨‍💻 All of my projects are available at [HERE](https://github.com/metehansenyer?tab=repositories)
 
@@ -23,12 +23,14 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">And Other Stuffs:</h3>
 <p align="left">
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://isocpp.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
@@ -37,18 +39,10 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Stats:</h3>
 <details>
-  <summary>&nbsp; <b>Stats</b></summary>
-  &nbsp; 
-  <details>
-    <summary> &nbsp; &nbsp; &nbsp; <b>GitHub Stats</b></summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=metehansenyer&show_icons=true&locale=en&layout=compact" alt="metehansenyer" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=metehansenyer&show_icons=true&locale=en" alt="metehansenyer" />
-  </details>
+  <summary> &nbsp; &nbsp; &nbsp; <b>GitHub Stats</b></summary>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=metehansenyer&show_icons=true&locale=en&layout=compact" alt="metehansenyer" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=metehansenyer&show_icons=true&locale=en" alt="metehansenyer" />
+</details>
 
-  <details>
-    <summary> &nbsp; &nbsp; &nbsp; <b>Discord Presence</b></summary>
-    <img src="https://lanyard.cnrad.dev/api/400710038983016458?idleMessage=%C3%9Czg%C3%BCn%C3%BCm%20%C5%9Fu%20an%20aktif%20de%C4%9Filim%20:(&showDisplayName=true&borderRadius=15px">
-  </details>
-  
- </details>
