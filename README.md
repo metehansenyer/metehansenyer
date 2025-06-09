@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mete!</h1>
 <h3 align="center">I am A Software Engineering student @Kocaeli University.</h3>
 
-<p align="center"> <a href="https://linkedin.com/in/metehansenyer"><img src="https://img.shields.io/badge/@metehansenyer-E4405F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=%23555555"></a> <a href="https://instagram.com/metehansenyer"><img src="https://img.shields.io/badge/@metehansenyer-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=%23555555"></a> <a href="https://twitter.com/mitefaz"><img src="https://img.shields.io/badge/@mitefaz-E4405F?style=for-the-badge&logo=x&logoColor=white&labelColor=14171A&color=%23555555"></a>
-
+<p align="center"> 
+  <a href="https://linkedin.com/in/metehansenyer"><img src="https://img.shields.io/badge/@metehansenyer-E4405F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgMTUgMTUiPgogIDxwYXRoIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMiAxYTEgMSAwIDAgMC0xIDF2MTFhMSAxIDAgMCAwIDEgMWgxMWExIDEgMCAwIDAgMS0xVjJhMSAxIDAgMCAwLTEtMUgyWm0xLjA1IDVoMS45djZoLTEuOVY2Wm0yLjAyNS0xLjk5NWExLjA3NSAxLjA3NSAwIDEgMS0yLjE1IDBhMS4wNzUgMS4wNzUgMCAwIDEgMi4xNSAwWk0xMiA4LjM1N2MwLTEuODA1LTEuMTY3LTIuNTA3LTIuMzI2LTIuNTA3YTIuMjA2IDIuMjA2IDAgMCAwLTEuMDk1LjIzMWMtLjI1Ny4xMy0uNTI2LjQyNC0uNzM0LjkzOGgtLjA1M1Y2SDZ2Ni4wMDVoMS45MDZWOC44MWMtLjAyNy0uMzI3LjA3Ny0uNzUuMjkxLTEuMDAxYy4yMTUtLjI1Mi41Mi0uMzEyLjc1My0uMzQyaC4wNzNjLjYwNiAwIDEuMDU2LjM3NSAxLjA1NiAxLjMydjMuMjE3aDEuOTA2TDEyIDguMzU3WiIgY2xpcC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==&logoColor=white&labelColor=0077B5&color=%23555555"></a> 
+<a href="https://instagram.com/metehansenyer"><img src="https://img.shields.io/badge/@metehansenyer-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=%23555555"></a>
 </p>
 
 - 🔭 My latest project is [KOU Grade Information System CLI](https://github.com/metehansenyer/KOU-Not-Bilgi-Sistemi-CLI)
