@@ -6,9 +6,9 @@
 <a href="https://instagram.com/metehansenyer"><img src="https://img.shields.io/badge/@metehansenyer-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=%23555555"></a>
 </p>
 
-- 🔭 My latest project is [KOU Grade Information System CLI](https://github.com/metehansenyer/KOU-Not-Bilgi-Sistemi-CLI)
+- 🔭 My latest project is [VLR.GG Unofficial API](https://github.com/metehansenyer/vlrgg-api)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NOTHING**
 
 - 👨‍💻 All of my projects are available at [HERE](https://github.com/metehansenyer?tab=repositories&q=&type=public&language=&sort=)
 
