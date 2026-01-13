@@ -31,6 +31,7 @@
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://isocpp.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://www.java.com/tr/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
@@ -42,7 +43,7 @@
 <details>
   <summary> &nbsp; &nbsp; &nbsp; <b>GitHub Stats</b></summary>
   <br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=metehansenyer&show_icons=true&locale=en&layout=compact" alt="metehansenyer" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=metehansenyer&show_icons=true&locale=en" alt="metehansenyer" />
+  <img align="left" src="https://readme-stats.metehansenyer.tech/api/top-langs?username=metehansenyer&show_icons=true&locale=en&layout=compact" alt="metehansenyer" />
+  <img align="center" src="https://readme-stats.metehansenyer.tech/api?username=metehansenyer&show_icons=true&locale=en" alt="metehansenyer" />
 </details>
 
