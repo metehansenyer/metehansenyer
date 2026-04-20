@@ -43,7 +43,7 @@
 <details>
   <summary> &nbsp; &nbsp; &nbsp; <b>GitHub Stats</b></summary>
   <br>
-  <img align="left" src="https://readme-stats.metehansenyer.tech/api/top-langs?username=metehansenyer&show_icons=true&locale=en&layout=compact" alt="metehansenyer" />
-  <img align="center" src="https://readme-stats.metehansenyer.tech/api?username=metehansenyer&show_icons=true&locale=en" alt="metehansenyer" />
+  <img align="left" src="./profile/top-langs.svg" alt="metehansenyer" />
+  <img align="center" src="./profile/stats.svg" alt="metehansenyer" />
 </details>
 
