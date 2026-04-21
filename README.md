@@ -17,7 +17,7 @@
 - ⚡ Fun fact **I hate studying but i love teaching**
 
 <h3 align="left">MY FAV THINGS:</h3>
-<div align="center">
+<div align="left">
   <table cellpadding="6">
     <tr>
       <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
@@ -31,7 +31,7 @@
 </div>
 
 <h3 align="left">And Other Stuffs:</h3>
-<div align="center">
+<div align="left">
   <table cellpadding="6">
     <tr>
       <td><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
