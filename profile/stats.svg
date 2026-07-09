@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Metehan &#350;enyer's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 25, Total Commits  (last year) : 1004, Total PRs: 48, Total Issues: 1, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 25, Total Commits  (last year) : 1005, Total PRs: 48, Total Issues: 1, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 130.47268452412212;
+        stroke-dashoffset: 130.56669440952584;
       }
     }
   
